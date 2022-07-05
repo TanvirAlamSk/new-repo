@@ -4,3 +4,8 @@ p{
 h1{
     background-color: aquamarine;
 }
+img{
+    height: 400px;
+    width: 380px;
+    display: block;
+}
